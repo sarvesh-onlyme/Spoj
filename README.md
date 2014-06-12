@@ -4,8 +4,9 @@ Spoj
 Problem     Category
 -----------------
 
-| ACODE       | DP Medium       |
+| PROBLEM     | CATEGORY        |
 |-------------|-----------------|
+| ACODE       | DP Medium       |
 | ACPC10A     |                 |
 | ADDREV      |                 |
 | BEADS       |                 |
@@ -18,6 +19,7 @@ Problem     Category
 | JULKA       |                 |
 | NSTEP       |                 |
 | ONP         |                 |
+| PALIN       |                 | 
 | PERMUT2     |                 |
 | SAMER08F    | Beginner Easy   |
 | TEST        |                 |

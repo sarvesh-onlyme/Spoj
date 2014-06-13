@@ -25,6 +25,7 @@ Problem     Category
 | TEST        |                 |
 | TOANDRFO    |                 |
 
+
 Spoj Category
 ------------
 http://problemclassifier.appspot.com/

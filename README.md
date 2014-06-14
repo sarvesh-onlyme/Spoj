@@ -18,6 +18,7 @@ Problem     Category
 | FCTRL       |                 |
 | FCTRL2      | Simple Math     |
 | JULKA       |                 |
+| LASTDIG     |                 |
 | NSTEP       |                 |
 | ONP         |                 |
 | PALIN       |                 | 

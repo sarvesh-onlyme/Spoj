@@ -9,6 +9,7 @@ Problem     Category
 | ACODE       | DP Medium       |
 | ACPC10A     |                 |
 | ADDREV      |                 |
+| ARITH       |                 |
 | BEADS       |                 |
 | CANDY       |                 |
 | CANTON      |                 |

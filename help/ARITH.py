@@ -88,7 +88,7 @@ def multiplication(digit1, digit2):
     elif digit1 == '0':
         print(('-'*len2).rjust(addLen))
     else:
-        print(('-'*len(add)).rjust(addLen))
+        print(('-'*max(len(add), len2+1)).rjust(addLen))
     print (add.rjust(addLen))
 
 

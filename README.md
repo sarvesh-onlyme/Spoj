@@ -23,6 +23,7 @@ Problem     Category
 | ONP         |                 |
 | PALIN       |                 | 
 | PERMUT2     |                 |
+| Rectangles  |                 |
 | SAMER08F    | Beginner Easy   |
 | TEST        |                 |
 | TOANDRFO    |                 |

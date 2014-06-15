@@ -12,6 +12,7 @@ Problem     Category
 | ARITH       |                 |
 | BEADS       |                 |
 | CANDY       |                 |
+| CANDY III   |                 |
 | CANTON      |                 |
 | CRSCNTRY    | DP Very Easy    |
 | FASHION     |                 |

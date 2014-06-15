@@ -14,6 +14,7 @@ Problem     Category
 | CANDY       |                 |
 | CANDY III   |                 |
 | CANTON      |                 |
+| COINS       | DP Easy         |
 | CRSCNTRY    | DP Very Easy    |
 | FASHION     |                 |
 | FCTRL       |                 |

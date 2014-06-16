@@ -16,6 +16,7 @@ Problem     Category
 | CANTON      |                 |
 | COINS       | DP Easy         |
 | CRSCNTRY    | DP Very Easy    |
+| EIGHTS      |                 |
 | FASHION     |                 |
 | FCTRL       |                 |
 | FCTRL2      | Simple Math     |

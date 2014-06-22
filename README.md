@@ -6,6 +6,7 @@ Problem     Category
 
 | PROBLEM     | CATEGORY        |
 |-------------|-----------------|
+| ABSYS       |                 |
 | ACODE       | DP Medium       |
 | ACPC10A     |                 |
 | ADDREV      |                 |
@@ -20,6 +21,7 @@ Problem     Category
 | FASHION     |                 |
 | FCTRL       |                 |
 | FCTRL2      | Simple Math     |
+| HANGOVER    |                 |
 | JULKA       |                 |
 | LASTDIG     |                 |
 | NSTEP       |                 |

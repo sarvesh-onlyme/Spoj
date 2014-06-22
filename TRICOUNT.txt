@@ -1,0 +1,17 @@
+LEVEL-6
+ Base size (Up)    No. of triangles
+   6                   1
+   5                   3
+   4                   6
+   3                   10          sum = n*(n+1)*(n+2)/6
+   2                   15          n = 6
+   1                   21
+ Base size (Up)    No. of triangles
+   6                   0
+   5                   0
+   4                   0           sum(even) = n*(n+1)*(4n+5)/6 
+   3                   1           n = 3
+   2                   6           sum(odd) = n*(n+1)*(4n-1)/6s
+   1                   15
+ it appears that if n is odd, then the number of downward pointing down is the sum of the first even triangular numbers (second + fourth + … + (n-1)th )
+ it appears that if n is even, then the number of downward pointing triangles is the sum of the first odd triangular numbers (first, third, fifth, … + (n-1)th )

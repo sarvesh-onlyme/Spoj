@@ -30,8 +30,11 @@ Problem     Category
 | PERMUT2     |                 |
 | Rectangles  |                 |
 | SAMER08F    | Beginner Easy   |
+| STAMPS      |                 |
+| STPAR       |                 |
 | TEST        |                 |
 | TOANDRFO    |                 |
+| WILLITST    |                 |
 
 
 Spoj Category
